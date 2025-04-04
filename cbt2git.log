@@ -1,0 +1,6 @@
+2025-04-04 05:58:57.517427 - Received CBT.V508.FILE202.PDS from FILE202.XMI 
+2025-04-04 05:58:57.518077 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:58:57.518224 - Found $EXPLAIN.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/$EXPLAIN
+2025-04-04 05:58:57.518357 - Found @FILE202.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/@FILE202
+2025-04-04 05:58:57.518573 - Found JOBMESGS.txt (text/plain) in CBT.V508.FILE202.PDS, moved to PDS/JOBMESGS
+2025-04-04 05:58:57.518696 - Found SMFRECS.bin (application/octet-stream) in CBT.V508.FILE202.PDS, moved to PDS/SMFRECS
